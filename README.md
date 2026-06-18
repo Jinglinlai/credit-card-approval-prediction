@@ -10,8 +10,8 @@ This project uses Logistic Regression and GridSearchCV to predict credit card ap
 - Hyperparameter tuning using GridSearchCV
 
 ## Model Performance
-- Best CV Score: ~0.xx
-- Final Test Accuracy: ~0.xx
+- Best CV Score: 0.8247078073866293
+- Final Test Accuracy: 0.8026315789473685
 
 ## Tech Stack
 - Python
